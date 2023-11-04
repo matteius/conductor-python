@@ -1,6 +1,5 @@
 import setuptools
-import os
 
 setuptools.setup(
-    version=os.environ['CONDUCTOR_PYTHON_VERSION'],
+    version="1.1.0",
 )
